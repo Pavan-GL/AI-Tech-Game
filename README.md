@@ -10,7 +10,7 @@ Process or Steps:
 
 Feed Forward Neural Network :
 
-* These models are called feedforward because information rows through the function being evaluated from x, through the intermediate computations used to define f, and finally to the output y. There are no feedback connections in which outputs of the model are fed back into itself.
+* These models are called feedforward because information rows through the function being evaluated from x, through the intermediate computations used to define f and finally to the output y. There are no feedback connections in which outputs of the model are fed back into itself.
 
 
 
